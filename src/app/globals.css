@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: blueviolet;
+    color: white;
+}
+
+.container{
+    margin: 75px auto;
+    
+}
+
